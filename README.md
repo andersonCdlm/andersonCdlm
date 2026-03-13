@@ -19,3 +19,13 @@
 
 ### 📊 Mis estadísticas
 ![Estadísticas de Anderson](https://github-readme-stats.vercel.app/api?username=andersonCdlm&show_icons=true&theme=radical)
+
+### 📩 Contacto
+
+Para colaboraciones o consultas sobre desarrollo de software y análisis de datos:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andersoncdlm)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo@ejemplo.com)
+
+---
+"Hecho con 💻 por Anderson"
