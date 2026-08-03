@@ -30,7 +30,7 @@ Tecnólogo en Análisis y Desarrollo de Software especializado en análisis de d
 
 | Proyecto | Descripción | Tecnologías |
 | :--- | :--- | :--- |
-| **Indusync Connect** | SaaS para la gestión industrial. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB).![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white).![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+| **Indusync Connect** | SaaS para la gestión industrial. Plataforma tecnológica SaaS denominada INDUSYNC CONNECT que integre Internet de las Cosas IoT y analítica predictiva para optimizar la gestión operativa el mantenimiento de maquinaria industrial y el control de inventarios en Micro Pequeñas y Medianas empresas de los sectores de construcción como maquinaria de bombas de concreto en Bogotá. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB).![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white).![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ---
 
 ### 📊 Mis estadísticas
