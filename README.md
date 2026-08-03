@@ -10,8 +10,6 @@ Tecnólogo en Análisis y Desarrollo de Software especializado en análisis de d
 #### Programación y Frameworks
 🛠️ **Tecnologías y Herramientas**
 
-🛠️ **Tecnologías y Herramientas**
-
 **Data & Analytics:**
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -30,7 +28,7 @@ Tecnólogo en Análisis y Desarrollo de Software especializado en análisis de d
 
 | Proyecto | Descripción | Tecnologías |
 | :--- | :--- | :--- |
-| **Indusync Connect** | SaaS para la gestión industrial. Plataforma tecnológica SaaS denominada INDUSYNC CONNECT que integre Internet de las Cosas IoT y analítica predictiva para optimizar la gestión operativa el mantenimiento de maquinaria industrial y el control de inventarios en Micro Pequeñas y Medianas empresas de los sectores de construcción como maquinaria de bombas de concreto en Bogotá. |![Docker].(https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+| **Indusync Connect** | SaaS para la gestión industrial. Plataforma tecnológica SaaS denominada INDUSYNC CONNECT que integre Internet de las Cosas IoT y analítica predictiva para optimizar la gestión operativa el mantenimiento de maquinaria industrial y el control de inventarios en Micro Pequeñas y Medianas empresas de los sectores de construcción como maquinaria de bombas de concreto en Bogotá. |![Docker]https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![MQTT](https://img.shields.io/badge/Mosquitto_MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
