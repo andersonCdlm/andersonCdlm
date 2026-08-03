@@ -10,6 +10,8 @@ Tecnólogo en Análisis y Desarrollo de Software especializado en análisis de d
 #### Programación y Frameworks
 🛠️ **Tecnologías y Herramientas**
 
+🛠️ **Tecnologías y Herramientas**
+
 **Data & Analytics:**
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -20,7 +22,6 @@ Tecnólogo en Análisis y Desarrollo de Software especializado en análisis de d
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
 
 ### 📂 Proyectos Destacados
 
