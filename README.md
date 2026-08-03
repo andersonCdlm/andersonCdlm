@@ -1,8 +1,9 @@
 # Hola, soy Aηdєя͢͢͢ʂօղッ 👋
 
 ### 🚀 Sobre mí
-- 🎓 Estudiante de Análisis y Desarrollo de Software (ADSO).
-- 💻 Desarrollador Full Stack enfocado en soluciones eficientes y automatización.
+- 💻Estudiante de Análisis y Desarrollo de Software (ADSO).
+- 🎓Ingeniería En Inteligencia Artificial Y Ciencia De Datos, 
+  
 Tecnólogo en Análisis y Desarrollo de Software especializado en análisis de datos, automatización de procesos y optimización de flujos operativos y logísticos. Con experiencia en la gestión y depuración de bases de datos de gran volumen, diseño de tableros de control avanzados (dashboards) y creación de flujos de trabajo automatizados (RPA), así como dominio técnico en SQL (MySQL), Power BI, Power Query, Tableau, Python y Excel Avanzado. Profesional con alta capacidad analítica, comunicación asertiva, enfoque en la mejora continua y rápida adaptabilidad al trabajo en equipo en entornos de innovación
 ### 🛠 Tecnologías y Herramientas
 
