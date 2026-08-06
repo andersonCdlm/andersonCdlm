@@ -1,50 +1,84 @@
-# Hola, soy Aηdєя͢͢͢ʂօղッ 👋
+![Banner](banner.png)
 
-### 🚀 Sobre mí
-- 🎓 Estudiante de Ingeniería En Inteligencia Artificial Y Ciencia De Datos,
-- 💻 Análisis y Desarrollo de Software (ADSO).
-  
-Tecnólogo en Análisis y Desarrollo de Software especializado en análisis de datos, automatización de procesos y optimización de flujos operativos y logísticos. Con experiencia en la gestión y depuración de bases de datos de gran volumen, diseño de tableros de control avanzados (dashboards) y creación de flujos de trabajo automatizados (RPA), así como dominio técnico en SQL (MySQL), Power BI, Power Query, Tableau, Python y Excel Avanzado. Profesional con alta capacidad analítica, comunicación asertiva, enfoque en la mejora continua y rápida adaptabilidad al trabajo en equipo en entornos de innovación
-### 🛠 Tecnologías y Herramientas
+<div align="center">
 
-#### Programación y Frameworks
-🛠️ **Tecnologías y Herramientas**
+# Hola, soy Anderson Tique 👋
+### Analista de Datos · Automatización de Procesos · Business Intelligence
 
-**Data & Analytics:**
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+📍 Bogotá, Colombia · 📧 andersont1946@gmail.com
+💼 [LinkedIn](https://www.linkedin.com/in/andersont-data-) · 🐦 [@andersont1946](https://x.com/andersont1946)
+
+</div>
+
+---
+
+## 🚀 Sobre mí
+
+- 🎓 Estudiante de **Ingeniería en IA y Ciencia de Datos** (UNAD) · **Análisis y Desarrollo de Software** (SENA).
+- 📊 Experiencia en procesos **ETL** y depuración de bases de datos de gran volumen (+10.000 registros).
+- 📈 Diseño de **dashboards** en Power BI, Tableau y Excel para KPIs de inventario y operación.
+- 🤖 Automatización con **Power Query** y **Power Automate (RPA)**: reduje tiempos de 48 h a 3 h (‑94 %).
+- 📦 Background logístico (WMS e inventarios): entiendo el negocio detrás de los datos.
+
+---
+
+## 🛠️ Tecnologías y Herramientas
+
+**Data & Analytics**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-**Desarrollo Backend & Frontend:**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+**Automatización**
+
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge)
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
+![Office 365](https://img.shields.io/badge/Office_365-D83B01?style=for-the-badge)
+
+**Desarrollo**
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-### 📂 Proyectos Destacados
+---
 
-| Proyecto | Descripción | Tecnologías |
-| :--- | :--- | :--- |
-| **Indusync Connect** | SaaS para la gestión industrial. Plataforma tecnológica SaaS denominada INDUSYNC CONNECT que integre Internet de las Cosas IoT y analítica predictiva para optimizar la gestión operativa el mantenimiento de maquinaria industrial y el control de inventarios en Micro Pequeñas y Medianas empresas de los sectores de construcción como maquinaria de bombas de concreto en Bogotá. |![Docker]https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+## 📌 Proyectos Destacados
+
+### 🏭 INDUSYNC CONNECT
+Plataforma SaaS de gestión industrial que integra **IoT** y **analítica predictiva** para optimizar el mantenimiento de maquinaria y el control de inventarios en micro, pequeñas y medianas empresas del sector constructor en Bogotá.
+
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![MQTT](https://img.shields.io/badge/Mosquitto_MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
----
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### 📊 Mis estadísticas
-![Estadísticas de Anderson](https://github-readme-stats.vercel.app/api?username=andersonCdlm&show_icons=true&theme=radical) 
+### 📊 Dashboard de Inventarios (Power BI)
+Tableros interactivos de rotación, faltantes y disponibilidad de insumos para operación logística. *(Agrega aquí capturas y enlace al dashboard publicado).*
 
-### 📩 Contacto
-
-Para colaboraciones o consultas sobre desarrollo de software y análisis de datos:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andersont-data/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo@ejemplo.com)
+### 🐍 Pipeline ETL de Inventarios
+Extracción, limpieza y consolidación de +9.000 registros/mes combinando WMS, SQL y Excel, con reporte automatizado de novedades.
 
 ---
-"Hecho con 💻 por Anderson"
+
+## 📈 Estadísticas
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=andersonCdlm&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonCdlm&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
+
+<div align="center">
+
+### 📫 ¿Colaboramos?
+Abierto a proyectos de análisis de datos, BI y automatización. ¡Escríbeme!
+
+</div>
