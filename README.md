@@ -57,11 +57,6 @@ Plataforma SaaS de gestión industrial que integra **IoT** y **analítica predic
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### 📊 Dashboard de Inventarios (Power BI)
-Tableros interactivos de rotación, faltantes y disponibilidad de insumos para operación logística. *(Agrega aquí capturas y enlace al dashboard publicado).*
-
-### 🐍 Pipeline ETL de Inventarios
-Extracción, limpieza y consolidación de +9.000 registros/mes combinando WMS, SQL y Excel, con reporte automatizado de novedades.
 
 ---
 
