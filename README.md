@@ -3,7 +3,7 @@
 <div align="center">
 
 # Hola, soy Anderson Tique 👋
-### Analista de Datos · Automatización de Procesos · Business Intelligence
+### Análisis y Desarrollo de Software Analista de Datos · 
 
 📍 Bogotá, Colombia · 📧 andersont1946@gmail.com
 💼 [LinkedIn](https://www.linkedin.com/in/andersont-data-) · 🐦 [@andersont1946](https://x.com/andersont1946)
@@ -14,7 +14,7 @@
 
 ## 🚀 Sobre mí
 
-- 🎓 Estudiante de **Ingeniería en IA y Ciencia de Datos** (UNAD) · **Análisis y Desarrollo de Software** (SENA).
+-  **Análisis y Desarrollo de Software** (SENA).
 - 📊 Experiencia en procesos **ETL** y depuración de bases de datos de gran volumen (+10.000 registros).
 - 📈 Diseño de **dashboards** en Power BI, Tableau y Excel para KPIs de inventario y operación.
 - 🤖 Automatización con **Power Query** y **Power Automate (RPA)**: reduje tiempos de 48 h a 3 h (‑94 %).
