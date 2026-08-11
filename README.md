@@ -15,11 +15,7 @@
 ## 🚀 Sobre mí
 
 -  **Análisis y Desarrollo de Software** (SENA).
-- 📊 Experiencia en procesos **ETL** y depuración de bases de datos de gran volumen (+10.000 registros).
-- 📈 Diseño de **dashboards** en Power BI, Tableau y Excel para KPIs de inventario y operación.
-- 🤖 Automatización con **Power Query** y **Power Automate (RPA)**: reduje tiempos de 48 h a 3 h (‑94 %).
-- 📦 Background logístico (WMS e inventarios): entiendo el negocio detrás de los datos.
-
+Tecnólogo en Análisis y Desarrollo de Software, con conocimientos en desarrollo de aplicaciones Full Stack utilizando HTML, CSS, JavaScript, React, Python y MySQL. Postgres Sql.  Con experiencia en el diseño, desarrollo, implementación y mantenimiento de aplicaciones web, construcción de interfaces de usuario dinámicas y responsivas, desarrollo de lógica de negocio en el backend, administración y optimización de bases de datos, gestión de migraciones, integración y consumo de APIs, manejo de librerías y frameworks de desarrollo, Administración de repositorios mediante sistemas de control de versiones y despliegue de aplicaciones utilizando contenedores Docker. Con habilidades en resolución de problemas técnicos, capacidad de análisis, aprendizaje continuo, trabajo En equipo, orientación a resultados.
 ---
 
 ## 🛠️ Tecnologías y Herramientas
