@@ -3,7 +3,7 @@
 <div align="center">
 
 # Hola, soy Anderson Tique 👋
-### Análisis y Desarrollo de Software Analista de Datos · 
+### Análisis y Desarrollo de Software - Analista de Datos · 
 
 📍 Bogotá, Colombia · 📧 andersont1946@gmail.com
 💼 [LinkedIn](https://www.linkedin.com/in/andersont-data-) · 🐦 [@andersont1946](https://x.com/andersont1946)
