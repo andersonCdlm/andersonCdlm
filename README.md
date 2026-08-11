@@ -47,14 +47,17 @@ Con habilidades en resolución de problemas técnicos, capacidad de análisis, a
 
 ---
 
-## 📈 Estadísticas de GitHub
+## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndersonCdlm&show_icons=true&theme=radical" alt="Estadísticas" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonCdlm&layout=compact&theme=radical" alt="Lenguajes más usados" />
-</div>
 
+  <!-- Estadísticas generales -->
+  <img src="https://github-readme-stats.vercel.app/api?username=AndersonCdlm&show_icons=true&theme=radical" alt="Estadísticas de GitHub" width="48%"/>
+  
+  <!-- Lenguajes más usados -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonCdlm&layout=compact&theme=radical" alt="Lenguajes más usados" width="48%"/>
+
+</div>
 ---
 
 ## 🤝 ¿Colaboramos?
