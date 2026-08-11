@@ -7,13 +7,13 @@
 **`Dasarrollador de Software · Analista de Datos · Automatización de Procesos · Business Intelligence`**
 
 📍 Bogotá, Colombia · 📧 [andersont1946@gmail.com](mailto:andersont1946@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/andersoncdlm/) · 🐦 [@andersont1946](https://twitter.com/andersont1946)
+🔗 [LinkedIn](https://www.linkedin.com/in/andersoncdlm/) · 🐦📧 [@andersont1946](https://twitter.com/andersont1946)
 
 ---
 
-## 🧑‍💻 Sobre mí
+##🎓💻👨‍🎓 Sobre mí
 
-**Análisis y Desarrollo de Software (SENA).**Tecnólogo en Análisis y Desarrollo de Software, con conocimientos en desarrollo de aplicaciones Full Stack utilizando HTML, CSS, JavaScript, React, Python y MySQL. Con experiencia en el diseño, desarrollo, implementación y mantenimiento de aplicaciones web, construcción de interfaces de usuario dinámicas y responsivas, desarrollo de lógica de negocio en el backend, administración y optimización de bases de datos, gestión de migraciones, integración y consumo de APIs, manejo de librerías y frameworks de desarrollo, Administración de repositorios mediante sistemas de control de versiones y despliegue de aplicaciones utilizando contenedores Docker. Con habilidades en resolución de problemas técnicos, capacidad de análisis, aprendizaje continuo, trabajo En equipo, orientación a resultados.
+Tecnólogo en Análisis y Desarrollo de Software, con conocimientos en desarrollo de aplicaciones Full Stack utilizando HTML, CSS, JavaScript, React, Python y MySQL. Con experiencia en el diseño, desarrollo, implementación y mantenimiento de aplicaciones web, construcción de interfaces de usuario dinámicas y responsivas, desarrollo de lógica de negocio en el backend, administración y optimización de bases de datos, gestión de migraciones, integración y consumo de APIs, manejo de librerías y frameworks de desarrollo, Administración de repositorios mediante sistemas de control de versiones y despliegue de aplicaciones utilizando contenedores Docker. Con habilidades en resolución de problemas técnicos, capacidad de análisis, aprendizaje continuo, trabajo En equipo, orientación a resultados.
 
  
 
