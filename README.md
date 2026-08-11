@@ -49,20 +49,33 @@ Con habilidades en resolución de problemas técnicos, capacidad de análisis, a
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=AndersonCdlm&show_icons=true&theme=radical" alt="Estadísticas de GitHub"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonCdlm&layout=compact&theme=radical" alt="Lenguajes más usados"/>
-      </td>
-    </tr>
-  </table>
-  
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=AndersonCdlm&show_icons=true&theme=radical" alt="Estadísticas de GitHub"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonCdlm&layout=compact&theme=radical" alt="Lenguajes más usados"/>
+    </td>
+  </tr>
+</table>
+
 </div>
 
+---
+
+## 🤝 ¿Colaboramos?
+
+Abierto a proyectos de análisis de datos, BI y automatización. ¡Escríbeme!
+
+📧 [andersont1946@gmail.com](mailto:andersont1946@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/andersoncdlm/)  
+🐦 [@andersont1946](https://twitter.com/andersont1946)
+
+---
+
+⭐ *"De los datos al conocimiento, del conocimiento a la acción."*
 ---
 
 ## 🤝 ¿Colaboramos?
