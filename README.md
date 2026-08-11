@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=F7A41D&center=true&vCenter=true&width=800&lines=Anderson+Tique;Analista+de+Datos;Automatización+de+Procesos;Business+Intelligence" alt="Banner" width="100%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=F7A41D&center=true&vCenter=true&width=800&lines=Anderson+Tique;Desarrollador+de+software;Analista+de+Datos;Automatización+de+Procesos;Business+Intelligence" alt="Banner" width="100%"/>
 </div>
 
-# 👋 Hola, soy Anderson Tique
+# 👋 Hola,
 
 **`Analista de Datos · Automatización de Procesos · Business Intelligence`**
 
