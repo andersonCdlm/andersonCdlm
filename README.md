@@ -34,8 +34,7 @@
 **Automatización**
 
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge)
-![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
-![Office 365](https://img.shields.io/badge/Office_365-D83B01?style=for-the-badge)
+
 
 **Desarrollo**
 
@@ -43,7 +42,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
 
 ---
 
@@ -53,7 +52,6 @@
 Plataforma SaaS de gestión industrial que integra **IoT** y **analítica predictiva** para optimizar el mantenimiento de maquinaria y el control de inventarios en micro, pequeñas y medianas empresas del sector constructor en Bogotá.
 
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
