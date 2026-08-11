@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=F7A41D&center=true&vCenter=true&width=800&lines=Anderson+Tique;Desarrollador+de+software;Analista+de+Datos;Automatización+de+Procesos;Business+Intelligence" alt="Banner" width="100%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=F7A41D&center=true&vCenter=true&width=800&lines=Anderson+Tique;Desarrollador+de+Software;Analista+de+Datos;Automatización+de+Procesos;Business+Intelligence" alt="Banner" width="100%"/>
 </div>
 
 # 👋 Hola,
 
-**`Analista de Datos · Automatización de Procesos · Business Intelligence`**
+**`Dasarrollador de Software · Analista de Datos · Automatización de Procesos · Business Intelligence`**
 
 📍 Bogotá, Colombia · 📧 [andersont1946@gmail.com](mailto:andersont1946@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/andersoncdlm/) · 🐦 [@andersont1946](https://twitter.com/andersont1946)
