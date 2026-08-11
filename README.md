@@ -7,7 +7,7 @@
 **`Dasarrollador de Software · Analista de Datos · Automatización de Procesos · Business Intelligence`**
 
 📍 Bogotá, Colombia · 📧 [andersont1946@gmail.com](mailto:andersont1946@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/andersoncdlm/) · 🐦📧 [@andersont1946](https://twitter.com/andersont1946)
+🔗 [LinkedIn](https://www.linkedin.com/in/andersoncdlm/) ·
 
 ---
 
@@ -76,11 +76,4 @@ Abierto a proyectos de análisis de datos, BI y automatización. ¡Escríbeme!
 ---
 
 ⭐ *"De los datos al conocimiento, del conocimiento a la acción."*
-
-📧 [andersont1946@gmail.com](mailto:andersont1946@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/andersoncdlm/)
-<img src="https://ejemplo.com/tu-banner.png" alt="Banner" width="100%"/>
-
----
-
-⭐ *"De los datos al conocimiento, del conocimiento a la acción."*
+."*
