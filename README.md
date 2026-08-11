@@ -59,6 +59,7 @@ Abierto a proyectos de análisis de datos, BI y automatización. ¡Escríbeme!
 
 📧 [andersont1946@gmail.com](mailto:andersont1946@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/andersoncdlm/)
+<img src="https://ejemplo.com/tu-banner.png" alt="Banner" width="100%"/>
 
 ---
 
